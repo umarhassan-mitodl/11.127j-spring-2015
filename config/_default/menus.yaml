@@ -1,0 +1,45 @@
+leftnav:
+- identifier: 53c1331e-3e01-8a35-f2b0-1875a5adfab9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: bbdda3ea-0ac1-959c-03de-396bcf80c6ce
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 19b1d416-2c63-bbbe-e939-b26b6a767bda
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: c7f31517-bacc-32a5-565b-0290b90acb62
+  name: Form and Function of Teamwork in the Course
+  pageRef: /pages/instructor-insights/form-and-function-of-teamwork-in-the-course
+  parent: 19b1d416-2c63-bbbe-e939-b26b6a767bda
+  weight: 40
+- identifier: f1850d66-39d8-d8f6-75c4-91a0ea42a8e1
+  name: Gamer Profile Assignment
+  pageRef: /pages/instructor-insights/reflecting-on-the-gamer-profile-assignment
+  parent: 19b1d416-2c63-bbbe-e939-b26b6a767bda
+  weight: 50
+- identifier: cdd5bc9a-38ce-0781-f986-dd35a5fb5ad9
+  name: Tips for Facilitating Project-Based Learning
+  pageRef: /pages/instructor-insights/tips-for-facilitating-project-based-learning
+  parent: 19b1d416-2c63-bbbe-e939-b26b6a767bda
+  weight: 60
+- identifier: 8681d81d-9d5d-781b-c4ca-d3b7d2fb3f4f
+  name: Aligning Teaching and Research
+  pageRef: /pages/instructor-insights/aligning-teaching-and-research
+  parent: 19b1d416-2c63-bbbe-e939-b26b6a767bda
+  weight: 70
+- identifier: eb0b645c-b553-f790-0ce8-d24fdc300671
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: cf36f31f-70dd-f7ad-52e8-e74cc8afb65d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
+  name: Student Games
+  pageRef: /pages/student-games
+  weight: 100
