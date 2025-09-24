@@ -13,7 +13,7 @@ The course has two central texts:
 
 \[Gee\] = Gee, James Paul. *What Video Games Have To Teach Us About Learning and Literacy*. St. Martin's Griffin, 2007. ISBN: 9781403984531.
 
-\[Schell\] = Schell, Jesse. *The Art of Game Design: A Book of Lenses*. A K Peters / CRC Press, 2014. ISBN: 9781466598645. \[Preview with [Google Books](http://books.google.com/books?id=kRMeBQAAQBAJ&pg=PAfrontcover)\]
+\[Schell\] = Schell, Jesse. *The Art of Game Design: A Book of Lenses*. A K Peters / CRC Press, 2014. ISBN: 9781466598645. \[Preview with {{% resource_link "aaa9a78c-4c9e-46b7-9aa9-1f9ab6a6381c" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -33,7 +33,7 @@ None
 Designing Curriculum for Commercial Off the Shelf Games
 {{< tdclose >}}{{< tdopen >}}
 
-Hunicke, Robin, Marc LeBlanc, et al. "[MDA: A Formal Approach to Game Gesign and Game Research](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)." 2004.
+Hunicke, Robin, Marc LeBlanc, et al. "{{% resource_link "33cb6ea7-c068-4658-90f0-2af616fbfffd" "MDA: A Formal Approach to Game Gesign and Game Research" %}}." 2004.
 
 \[Gee\] Chapters 1 and 2.
 
@@ -45,13 +45,13 @@ Designing Curriculum for Commercial Off the Shelf Games
 
 \[Gee\] Chapters 3 and 4.
 
-Duncan, Sean. "[Fiasco and Failure: Uncovering Hidden Rules in a Story Game (PDF)](https://press.etc.cmu.edu/file/download/862/2db64a29-9920-4b41-86fd-00bc8afb4fcd). *Well Played: A Journal on Video Games, Value and Meaning* 3, no. 1 (2014): 11-32.
+Duncan, Sean. "{{% resource_link "612e3fb0-987d-4cae-91a4-77d7de880d2a" "Fiasco and Failure: Uncovering Hidden Rules in a Story Game (PDF)" %}}. *Well Played: A Journal on Video Games, Value and Meaning* 3, no. 1 (2014): 11-32.
 
-Nealen, Andrew. ["Ascension: A Case Study in Deck Building Games." (PDF - 1.1MB)](http://www.nealen.net/ascension.pdf) Digital Games Research Association (DiGRA), 2013.
+Nealen, Andrew. {{% resource_link "8d752d37-02ac-486e-b0dc-fc87f9b3beea" "\"Ascension: A Case Study in Deck Building Games.\" (PDF - 1.1MB)" %}} Digital Games Research Association (DiGRA), 2013.
 
-Duncan, Sean. "[Minecraft, Beyond Construction & Survival](http://dl.acm.org/citation.cfm?id=2207097)." *Well Played: A Journal on Video Games, Value and Meaning* 1, no. 1 (2011): 1–22.
+Duncan, Sean. "{{% resource_link "9f181ec3-ec15-4681-b17a-ba94536396d7" "Minecraft, Beyond Construction & Survival" %}}." *Well Played: A Journal on Video Games, Value and Meaning* 1, no. 1 (2011): 1–22.
 
-[Learning with Computer Games & Simulations](http://www.cited.org/index.aspx?page_id=143). The Center for Implementing Technology in Education.
+{{% resource_link "481dfef3-9c31-4a49-81c3-470ab12e4964" "Learning with Computer Games & Simulations" %}}. The Center for Implementing Technology in Education.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -61,13 +61,13 @@ Designing Curriculum for Commercial Off the Shelf Games
 
 \[Gee\] Chapters 5 and 6.
 
-Harger, Bakker. "[Improv](https://dl.acm.org/doi/pdf/10.5555/2031882.2031903)." ETC Press & Morningstar, and Segedy. "[Fiasco Companion Excerpt](https://rpggeek.com/rpgitem/99076/fiasco-companion)." 2011.
+Harger, Bakker. "{{% resource_link "d59c9a65-561e-4ef9-8ea0-4ad0230983a4" "Improv" %}}." ETC Press & Morningstar, and Segedy. "{{% resource_link "770ec53e-95d5-44cd-9e80-a78f800435b3" "Fiasco Companion Excerpt" %}}." 2011.
 
-Berland, Matthew. "[Understanding Strategic Boardgames as Computational Thinking Training Machines](https://dl.acm.org/doi/10.5555/2031882.2031901)." ETC Press, 2011.
+Berland, Matthew. "{{% resource_link "e77c4773-9795-4a81-821b-01813bbe7be7" "Understanding Strategic Boardgames as Computational Thinking Training Machines" %}}." ETC Press, 2011.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/falling-science) Turkle, Sherry. "What We Build." In *Falling for Science: Objects in Mind*. MIT Press, 2011. ISBN: 9780471137740.
+{{% resource_link "4a3a53ca-d10a-4f97-a09e-fdbd9dffa74c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Turkle, Sherry. "What We Build." In *Falling for Science: Objects in Mind*. MIT Press, 2011. ISBN: 9780471137740.
 
-Lauwaert, Maaike. "[Challenge Everything?: Construction Play in Will Wright's SimCity.](http://dx.doi.org/10.1177/1555412007306205)" *Games and Culture* 2, no. 3 (2007): 194–212.
+Lauwaert, Maaike. "{{% resource_link "2db46e37-b9c3-4073-9878-1e8f25f16124" "Challenge Everything?: Construction Play in Will Wright's SimCity." %}}" *Games and Culture* 2, no. 3 (2007): 194–212.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -79,11 +79,11 @@ Multiplayer Games
 
 Levy, Frank, and Richard J. Murnane. "How Computerized Work and Globalization Shape Human Skill Demands." In *Learning in the Global Era: International Perspectives on Globalization and Education.* University of California Press, 2007. ISBN: 9780520254367.
 
-Johnson, Soren. "[Playing the Odds](http://www.gamasutra.com/view/news/118450/Analysis_Soren_Johnson_On_Playing_The_Odds.php)." Gamasutra. March 16, 2010.
+Johnson, Soren. "{{% resource_link "f79eb1e3-61d2-4a9b-9409-698320618165" "Playing the Odds" %}}." Gamasutra. March 16, 2010.
 
-Squire, Kurt, et al. "[From Users to Designers: Building a Self-Organizing Game-Based Learning Environment](http://dx.doi.org/10.1007/BF02763688)." *TechTrends: Linking Research & Practice to Improve Learning* 49, no. 5 (2005): 34–43.
+Squire, Kurt, et al. "{{% resource_link "b0b0c78c-3b1b-4497-bbe9-c5566cece592" "From Users to Designers: Building a Self-Organizing Game-Based Learning Environment" %}}." *TechTrends: Linking Research & Practice to Improve Learning* 49, no. 5 (2005): 34–43.
 
-Steinkuehler, Constance, and Sean Duncan. "[Scientific Habits of Mind in Virtual Worlds.](http://dx.doi.org/10.1007/s10956-008-9120-8)" *Journal of Science Education and Technology* 17, no. 6 (2008): 530–43.
+Steinkuehler, Constance, and Sean Duncan. "{{% resource_link "e76021ce-4ab7-4c02-9f6a-29835734a0df" "Scientific Habits of Mind in Virtual Worlds." %}}" *Journal of Science Education and Technology* 17, no. 6 (2008): 530–43.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -115,7 +115,7 @@ Board Games (cont.)
 
 ### Readings Due
 
-Nicholson, Scott. "[From Settlers to Quarriors: Breaking up the Monopoly with Modern Board Game Design](http://gambit.mit.edu/updates/2011/09/podcast_scott_nicholson_from_s.php)." Modern Board Game Colloquim 2011. September 13, 2011.
+Nicholson, Scott. "{{% resource_link "ccb63672-8d53-45a0-8f51-a845d377bb01" "From Settlers to Quarriors: Breaking up the Monopoly with Modern Board Game Design" %}}." Modern Board Game Colloquim 2011. September 13, 2011.
 
 ### Optional Readings
 
@@ -123,9 +123,9 @@ Nicholson, Scott. "[From Settlers to Quarriors: Breaking up the Monopoly with Mo
 
 ### Presentations
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514880) Bogost. "Procedural Rhetoric." In *Persuasive Games: The Expressive Power of Videogames.* MIT Press, 2010. ISBN: 9780262514880.
+{{% resource_link "b6a2e301-fbbf-44a5-9c9f-d7437f3f106f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bogost. "Procedural Rhetoric." In *Persuasive Games: The Expressive Power of Videogames.* MIT Press, 2010. ISBN: 9780262514880.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515658)  Salen, Katie, et al. "Game Based Learning & Knowing." In *Quest to Learn: Developing the School for Digital Kids*. The John D. and Catherine T. MacArthur Foundation Reports on Digital Media and Learning. MIT Press, 2010. ISBN: 9780262515658. \[[Free download](https://mitpress.mit.edu/9780262515658) available\]
+{{% resource_link "86fd43c4-19c5-4776-9dc7-dc706fe176bd" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  Salen, Katie, et al. "Game Based Learning & Knowing." In *Quest to Learn: Developing the School for Digital Kids*. The John D. and Catherine T. MacArthur Foundation Reports on Digital Media and Learning. MIT Press, 2010. ISBN: 9780262515658. \[{{% resource_link "86fd43c4-19c5-4776-9dc7-dc706fe176bd" "Free download" %}} available\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -141,13 +141,13 @@ Daviau, Selinker, et al. Excerpts - *Kobold Guide to Board Game Design\_*.\_ Ope
 
 \[Schell\] Chapters 5 and 6.
 
-Pulsipher, Lewis. "[Characteristics of Boards](http://gamasutra.com/blogs/LewisPulsipher/20150126/235016/Characteristics_of_Boards.php)." Gamasutra. January 26, 2015.
+Pulsipher, Lewis. "{{% resource_link "d8e38250-a1c4-40eb-a48d-5290d8cc8384" "Characteristics of Boards" %}}." Gamasutra. January 26, 2015.
 
 ### Presentations
 
-Joplin, Laura. "[On Defining Experiential Education](http://jee.sagepub.com/content/4/1/17.short?rss=1&ssource=mfc)." Journal of Experiential Education 4, no. 1 (1981): 17-20.
+Joplin, Laura. "{{% resource_link "376c6992-babc-4f90-a1a0-8d3a9fb18e8a" "On Defining Experiential Education" %}}." Journal of Experiential Education 4, no. 1 (1981): 17-20.
 
-McGonigal, Jane. ["Why I *Love Bees*: A Case Study in Collective Intelligence Gaming." (PDF)](http://www.avantgame.com/McGonigal_WhyILoveBees_Feb2007.pdf) *The Ecology of Games: Connecting Youth, Games, and Learning* (2008): 199–228.
+McGonigal, Jane. {{% resource_link "3a3cdc66-cde5-43c1-b61d-91377783a344" "\"Why I *Love Bees*: A Case Study in Collective Intelligence Gaming.\" (PDF)" %}} *The Ecology of Games: Connecting Youth, Games, and Learning* (2008): 199–228.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -161,9 +161,9 @@ Board Games (cont.)
 
 ### Presentations
 
-Wiggins, Grant, and Jay McTighe. *Understanding by Design*. Association for Supervision & Curriculum Development, 2005. ISBN: 9781416600350. \[Preview with [Google Books](http://books.google.com/books?id=N2EfKlyUN4QC&pg=PAfrontcover)\]
+Wiggins, Grant, and Jay McTighe. *Understanding by Design*. Association for Supervision & Curriculum Development, 2005. ISBN: 9781416600350. \[Preview with {{% resource_link "50e4f6bb-e7ff-4423-86af-01a4f3e89a2c" "Google Books" %}}\]
 
-Mislevy, Robert, et al. "[A Brief Introduction to Evidence Centered Design](http://dx.doi.org/10.1002/j.2333-8504.2003.tb01908.x)." *ETS Research Report Series* 2003, no. 1 (2013): 2003.
+Mislevy, Robert, et al. "{{% resource_link "ab6f9b72-c196-4d07-9da3-26c0936a5da2" "A Brief Introduction to Evidence Centered Design" %}}." *ETS Research Report Series* 2003, no. 1 (2013): 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -177,9 +177,9 @@ Board Games (cont.)
 
 ### Presentations
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019934) Kafai, Yasmin, and Deborah Fields. "Playgrounds for Millions" and "Identity Play." In *Connected Play: Tweens in a Virtual World*. MIT Press, 2013. ISBN: 9780262019934. \[Preview with [Google Books](http://books.google.com/books?id=5QJPAQAAQBAJ&pg=PA1=onepage)\]
+{{% resource_link "99798b05-419f-4de8-99d0-765f0a2b0a74" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kafai, Yasmin, and Deborah Fields. "Playgrounds for Millions" and "Identity Play." In *Connected Play: Tweens in a Virtual World*. MIT Press, 2013. ISBN: 9780262019934. \[Preview with {{% resource_link "d5eef952-d0bb-40c9-9a5f-79e370e0eda6" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518543) Ito, Mizuko, et al. "Gaming." In *Hanging Out, Messing Around, and Geeking Out—Kids Living and Learning with New Media*. MIT Press, 2013. ISBN: 9780262518543.
+{{% resource_link "ba8b6202-3f50-40cf-8eac-d24ee1c575b7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ito, Mizuko, et al. "Gaming." In *Hanging Out, Messing Around, and Geeking Out—Kids Living and Learning with New Media*. MIT Press, 2013. ISBN: 9780262518543.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -193,9 +193,9 @@ Board Games (cont.)
 
 ### Presentations
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195751) Stevens, Reed, et al. "In-Game, In-Room, In-World: Reconnecting Video Game Play to the Rest of Kids' Lives." In *The Ecology of Games: Connecting Youth, Games, and Learning.* MIT Press\_,\_ 2008, 41–66. ISBN: 9780262195751.
+{{% resource_link "b50d0089-7edd-4808-b58d-8915ad13cfe0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, Reed, et al. "In-Game, In-Room, In-World: Reconnecting Video Game Play to the Rest of Kids' Lives." In *The Ecology of Games: Connecting Youth, Games, and Learning.* MIT Press\_,\_ 2008, 41–66. ISBN: 9780262195751.
 
-Squire, Kurt. "[From Content to Context: Videogames as Designed Experience.](http://dx.doi.org/10.3102/0013189X035008019)" *Educational Researcher* 35, no. 8 (2006): 19–29.
+Squire, Kurt. "{{% resource_link "a1355015-aa4f-46df-8b20-6c93db7c581c" "From Content to Context: Videogames as Designed Experience." %}}" *Educational Researcher* 35, no. 8 (2006): 19–29.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -221,7 +221,7 @@ Bogost, Ian. "Intro, Empathy, Exercise, Conclusion\_.*" In \_How to Do Things Wi
 
 ### Optional
 
-Bogost, Ian. "[The Cathedral of Computation.](http://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)" *The Atlantic Monthly*. January 15, 2015.
+Bogost, Ian. "{{% resource_link "427f35b1-b980-47e9-9ddc-54360cec1464" "The Cathedral of Computation." %}}" *The Atlantic Monthly*. January 15, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -231,14 +231,14 @@ Digital Games (cont.)
 
 ### Readings Due
 
-["A-Games Educator Survey." (PDF - 9.7MB)](https://www.gamesandlearning.org/2014/12/10/new-study-indicates-what-kind-of-teachers-aim-to-use-games-to-gauge-learning/) NYU Steinhardt School of Culture, Education, and Human Development, and University of Michigan School of Learning. 2014.
+{{% resource_link "09625d77-0bfa-4fe8-84cd-9fcfeb4c00c4" "\"A-Games Educator Survey.\" (PDF - 9.7MB)" %}} NYU Steinhardt School of Culture, Education, and Human Development, and University of Michigan School of Learning. 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 Digital Games (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Zimmerman, Eric. "[Play as Research: The Iterative Design Process (PDF - 5.2MB)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)." 2003.
+Zimmerman, Eric. "{{% resource_link "ab834a3e-155e-4779-b2ee-560ee9f2b83b" "Play as Research: The Iterative Design Process (PDF - 5.2MB)" %}}." 2003.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -250,7 +250,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 Digital Games (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Excerpt from [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518659) Flanagan, Mary. *Critical Play: Radical Game Design.* MIT Press, 2013. ISBN: 9780262518659.
+Excerpt from {{% resource_link "8555968f-0c17-4834-b524-429011620960" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Flanagan, Mary. *Critical Play: Radical Game Design.* MIT Press, 2013. ISBN: 9780262518659.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -263,9 +263,9 @@ Digital Games (cont.)
 Digital Games (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Wilson, Douglas. ["Designing for the Pleasures of Disputation." (PDF - 6.2MB)](https://pure.itu.dk/ws/files/41411002/Thesis_received_120927_Designing_for_the_Pleasures_of_Disputation_v3.pdf) 2012.
+Wilson, Douglas. {{% resource_link "b6a5317f-ad84-4730-be4d-1803f892db71" "\"Designing for the Pleasures of Disputation.\" (PDF - 6.2MB)" %}} 2012.
 
-Consalvo, Mia. "[Cheating Can Be Good For You: Educational Games and Multiple Playstyles](https://dl.acm.org/citation.cfm?id=1594216)." In *Beyond Fun: Serious Games and Media*. ETC Press, 2007.
+Consalvo, Mia. "{{% resource_link "7ca9e4f9-11cd-4a94-ad17-495c82aed601" "Cheating Can Be Good For You: Educational Games and Multiple Playstyles" %}}." In *Beyond Fun: Serious Games and Media*. ETC Press, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -278,7 +278,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 Digital Games (cont.)
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518819) Shute, Valerie. *Stealth Assessment: Measuring and Supporting Learning in Video Games*. MIT Press, 2013. ISBN: 9780262518819. \[Preview with [Google Books](http://books.google.com/books?id=LhlznpINr2MC&pg=PAfrontcover)\]
+{{% resource_link "6c549f06-4ff8-4729-a527-86b4ef51237a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Shute, Valerie. *Stealth Assessment: Measuring and Supporting Learning in Video Games*. MIT Press, 2013. ISBN: 9780262518819. \[Preview with {{% resource_link "ac4e00b5-5f5f-47b1-9c19-e2e41015a836" "Google Books" %}}\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}

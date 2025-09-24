@@ -18,7 +18,7 @@ Course Overview
 
 This course immerses students in the process of building and testing their own digital and board games in order to better understand how we learn from games. We explore the design and use of games in the classroom in addition to research and development issues associated with computer-based (desktop and handheld) and non-computer-based media. In developing their own games, students examine what and how people learn from them (including field testing of products), as well as how games can be implemented in educational settings. All levels of computer experience welcome.
 
-11.127J is part of the MIT [Scheller Teaching Education Program](http://education.mit.edu/).
+11.127J is part of the MIT {{% resource_link "d6bf87d1-2e07-4970-8425-bb886b4153bd" "Scheller Teaching Education Program" %}}.
 
 Prerequisites
 =============
