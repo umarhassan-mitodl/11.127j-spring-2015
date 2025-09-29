@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding escape 
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/7d780fe481676d0644651e6887b80bca_MIT11_127JS15_Esc_instruct.pdf
 file_size: 1019041
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,6 +5,8 @@ description: In this section, Professor Eric Klopfer describes how teams form an
   He also shares his insights about the importance of having students reflect on how
   their teams functioned, as well as how he approaches grading when students complete
   projects as teams.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

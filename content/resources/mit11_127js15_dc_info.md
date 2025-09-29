@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding backgro
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/3b886cd25daa6d2f639e97cafc929b30_MIT11_127JS15_DC_info.pdf
 file_size: 129221
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,6 +5,8 @@ description: In this section, Professor Eric Klopfer shares his reflections abou
   and Exploration. He discusses how the assignment is designed to challenge assumptions
   about who gamers are and what they play. He also shares why he does not allow students
   to present their gamer profiles in the form of papers or PowerPoint presentations.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ Purpose of the Assignment
 
 In _11.127J Computer Games and Simulations for Education and Exploration_, we ask each student to interview a person who identifies as a gamer. Students learn about how the gamer understands his or her gaming experience, as well as details about the gamer’s style of play, habits, and preferences. Students present their findings as case studies.
 
-I borrowed this assignment from my colleague, {{% resource_link "723b7de7-969f-4f01-8e54-74be1baf3271" "Barry Fishman" %}}, who is a Professor of Learning Technologies at the University of Michigan. I use it because I want students to challenge the commonly held belief that gamers fit a particular profile. The goal is help students understand that there are actually many different kinds of gamers. For example, many college-educated students are gamers; they might only play games for a few minutes each day, but this time might be important to them—and that’s what defines them as gamers. Being a gamer is more than how many hours someone plays games or what kinds of games they play. This assignment helps students explore this idea; it really gives students a sense that there are different kinds of gamers out there.
+I borrowed this assignment from my colleague, [Barry Fishman](http://www-personal.umich.edu/~fishman/), who is a Professor of Learning Technologies at the University of Michigan. I use it because I want students to challenge the commonly held belief that gamers fit a particular profile. The goal is help students understand that there are actually many different kinds of gamers. For example, many college-educated students are gamers; they might only play games for a few minutes each day, but this time might be important to them—and that’s what defines them as gamers. Being a gamer is more than how many hours someone plays games or what kinds of games they play. This assignment helps students explore this idea; it really gives students a sense that there are different kinds of gamers out there.
 
 {{< quote "Most students present their gamer profiles as videos. Video enables students to integrate media in a way that allows the audience to hear the gamer’s own voice and to experience the games the person plays and how he or she plays them." "— Eric Klopfer" >}}
 

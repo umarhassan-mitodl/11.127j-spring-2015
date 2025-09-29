@@ -2,6 +2,8 @@
 content_type: page
 description: This section features a sampling of student work produced in the course,
   representing games that were easy to display or share online.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Games
