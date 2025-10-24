@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding divide 
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/9b5e79142cfbe325528e5fdb769e58af_MIT11_127JS15_DC_event.pdf
 file_size: 567527
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

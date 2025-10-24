@@ -4,8 +4,6 @@ description: This is a resource file that contains information regarding enzyme 
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/ec5e6ff102fde7f6b3446783acf78a90_MIT11_127JS15_DC_enzyme.pdf
 file_size: 77786
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
